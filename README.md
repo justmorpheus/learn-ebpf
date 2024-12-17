@@ -41,3 +41,10 @@ This repository is my journey to learn eBPF (Extended Berkeley Packet Filter) fr
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/learn-ebpf.git
+
+
+## Credits
+
+- https://ebpf.io/what-is-ebpf/
+- https://ebpf.io/labs/
+- https://isovalent.com/labs/learning-ebpf-tutorial/?utm_source=website-ebpf&utm_medium=referral&utm_campaign=ebpf-lab
